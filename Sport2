@@ -1,0 +1,1684 @@
+#EXTM3U
+#EXTPARAMS:NET=6500
+#EXTINF:-1 group-title="RACING",UK: Sky Sports Racing HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696265.ts
+#EXTINF:-1,UK: Sky Sports Racing HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696266.ts
+#EXTINF:-1,UK: Sky Sports Racing
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696267.ts
+#EXTINF:-1,UK: Racing TV HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696488.ts
+#EXTINF:-1,UK: Racing TV HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696489.ts
+#EXTINF:-1,UK: Coral TV 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696319.ts
+#EXTINF:-1,UK: Coral TV 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696320.ts
+#EXTINF:-1,UK: SIS One
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696313.ts
+#EXTINF:-1,UK: SIS Two
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696314.ts
+#EXTINF:-1,UK: SIS Racing
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696315.ts
+#EXTINF:-1,UK: Betfred TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696326.ts
+#EXTINF:-1,UK: Ladbrokes TV 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696316.ts
+#EXTINF:-1,UK: Ladbrokes TV 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696317.ts
+#EXTINF:-1,UK: Ladbrokes TV 3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696318.ts
+#EXTINF:-1,UK: Paddy Power TV 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696321.ts
+#EXTINF:-1,UK: Paddy Power TV 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696610.ts
+#EXTINF:-1,UK: Paddy Power TV 3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696322.ts
+#EXTINF:-1,UK: William Hill TV 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696324.ts
+#EXTINF:-1,UK: William Hill TV 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696325.ts
+#EXTINF:-1,UK: William Hill BTV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696323.ts
+#EXTINF:-1,UK: William Hill BTV 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/700056.ts
+#EXTINF:-1 group-title="SKY SPORTS",UK: Sky Sports Main Event HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696232.ts
+#EXTINF:-1,UK: Sky Sports Main Event HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696233.ts
+#EXTINF:-1,UK: Sky Sports Main Event HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696234.ts
+#EXTINF:-1,UK: Sky Sports Premier League HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696235.ts
+#EXTINF:-1,UK: Sky Sports Premier League HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696236.ts
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696237.ts
+#EXTINF:-1,UK: Sky Sports Premier League SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696238.ts
+#EXTINF:-1,UK: Sky Sports Football HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696239.ts
+#EXTINF:-1,UK: Sky Sports Football HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696240.ts
+#EXTINF:-1,UK: Sky Sports Football HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696241.ts
+#EXTINF:-1,UK: Sky Sports Football SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696242.ts
+#EXTINF:-1,UK: Sky Sports Arena HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696255.ts
+#EXTINF:-1,UK: Sky Sports Arena HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696256.ts
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696257.ts
+#EXTINF:-1,UK: Sky Sports Arena SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696258.ts
+#EXTINF:-1,UK: Sky Sports Action SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696254.ts
+#EXTINF:-1,UK: Sky Sports Action HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696251.ts
+#EXTINF:-1,UK: Sky Sports Action HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696252.ts
+#EXTINF:-1,UK: Sky Sports Action HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696253.ts
+#EXTINF:-1,UK: Sky Sports News HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696230.ts
+#EXTINF:-1,UK: Sky Sports News HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696231.ts
+#EXTINF:-1,UK: Sky Sports Cricket HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696243.ts
+#EXTINF:-1,UK: Sky Sports Cricket HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696244.ts
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696245.ts
+#EXTINF:-1,UK: Sky Sports Cricket SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696246.ts
+#EXTINF:-1,UK: Sky Sports Golf HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696247.ts
+#EXTINF:-1,UK: Sky Sports Golf HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696248.ts
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696249.ts
+#EXTINF:-1,UK: Sky Sports Golf SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696250.ts
+#EXTINF:-1,UK: Sky Sports Mix HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696259.ts
+#EXTINF:-1,UK: Sky Sports Mix HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696260.ts
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696261.ts
+#EXTINF:-1,UK: Sky Sports F1 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696262.ts
+#EXTINF:-1,UK: Sky Sports F1 HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696263.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696264.ts
+#EXTINF:-1,UK : Sky Sports Red Button 01
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587912.ts
+#EXTINF:-1,UK : Sky Sports Red Button 02
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587911.ts
+#EXTINF:-1,UK : Sky Sports Red Button 03
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587910.ts
+#EXTINF:-1,UK : Sky Sports Red Button 04
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587909.ts
+#EXTINF:-1,UK : Sky Sports Red Button 05
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587908.ts
+#EXTINF:-1,UK : Sky Sports Red Button 06
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587907.ts
+#EXTINF:-1,UK : Sky Sports Red Button 07
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587906.ts
+#EXTINF:-1,UK : Sky Sports Red Button 08
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587905.ts
+#EXTINF:-1,UK : Sky Sports Red Button 09
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587904.ts
+#EXTINF:-1,UK : Sky Sports Red Button 10
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587903.ts
+#EXTINF:-1,UK : Sky Sports Red Button 11
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587902.ts
+#EXTINF:-1,UK : Sky Sports Red Button 12
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587901.ts
+#EXTINF:-1,UK : Sky Sports Red Button 13
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587900.ts
+#EXTINF:-1,UK : Sky Sports Red Button 14
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587899.ts
+#EXTINF:-1,UK : Sky Sports Red Button 15
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587898.ts
+#EXTINF:-1,UK : Sky Sports Red Button 16
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587897.ts
+#EXTINF:-1,UK : Sky Sports Red Button 17
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587896.ts
+#EXTINF:-1,UK : Sky Sports Red Button 18
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587895.ts
+#EXTINF:-1,UK : Sky Sports Red Button 19
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587894.ts
+#EXTINF:-1,UK : Sky Sports Red Button 20
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587893.ts
+#EXTINF:-1,UK : Sky Sports Red Button 21
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587892.ts
+#EXTINF:-1,UK : Sky Sports Red Button 22
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587891.ts
+#EXTINF:-1,UK : Sky Sports Red Button 23
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587890.ts
+#EXTINF:-1,UK : Sky Sports Red Button 24
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587889.ts
+#EXTINF:-1,UK : Sky Sports Red Button 25
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587888.ts
+#EXTINF:-1,UK : Sky Sports Red Button 26
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587887.ts
+#EXTINF:-1,UK : Sky Sports Red Button 27
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587886.ts
+#EXTINF:-1,UK : Sky Sports Red Button 28
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587885.ts
+#EXTINF:-1 group-title="BT Sports",UK: BT Sport 1 HD (50 FPS)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696268.ts
+#EXTINF:-1,UK: BT Sport 1 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696269.ts
+#EXTINF:-1,UK: BT Sport 1 HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696270.ts
+#EXTINF:-1,UK: BT Sport 1 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696271.ts
+#EXTINF:-1,UK: BT Sport 2 HD (50 FPS)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696272.ts
+#EXTINF:-1,UK: BT Sport 2 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696273.ts
+#EXTINF:-1,UK: BT Sport 2 HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696274.ts
+#EXTINF:-1,UK: BT Sport 2 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696275.ts
+#EXTINF:-1,UK: BT Sport 3 HD (50 FPS)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696276.ts
+#EXTINF:-1,UK: BT Sport 3 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696277.ts
+#EXTINF:-1,UK: BT Sport 3 HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696278.ts
+#EXTINF:-1,UK: BT Sport 3 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696279.ts
+#EXTINF:-1,UK: BT Sport ESPN HD (50 FPS)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696280.ts
+#EXTINF:-1,UK: BT Sport ESPN HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696281.ts
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696282.ts
+#EXTINF:-1,UK: BT Sport Extra 1 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696283.ts
+#EXTINF:-1,UK: BT Sport Extra 2 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696284.ts
+#EXTINF:-1,UK: BT Sport Extra 3 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696285.ts
+#EXTINF:-1,UK: BT Sport Extra 4 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696286.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696287.ts
+#EXTINF:-1,UK: BT Sport Extra 6
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696288.ts
+#EXTINF:-1,UK: Box Nation HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696480.ts
+#EXTINF:-1,UK: MUTV HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696490.ts
+#EXTINF:-1,US: NBCSN FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696503.ts
+#EXTINF:-1,UK: PDC Darts 1 (Only Live for Events)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696481.ts
+#EXTINF:-1,UK: PDC Darts 2 (Only Live for Events)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696482.ts
+#EXTINF:-1,UK: Eurosport 1 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696483.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696484.ts
+#EXTINF:-1,UK: Eurosport 2 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696485.ts
+#EXTINF:-1,UK: Eurosport 2 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696486.ts
+#EXTINF:-1,UK: Premier Sports 1 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696493.ts
+#EXTINF:-1,UK: Premier Sports 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696494.ts
+#EXTINF:-1,UK: Premier Sports 2 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696495.ts
+#EXTINF:-1,UK: Premier Sports 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696496.ts
+#EXTINF:-1,UK: FreeSports HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696497.ts
+#EXTINF:-1,UK: FreeSports HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696498.ts
+#EXTINF:-1,UK: FreeSports
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696499.ts
+#EXTINF:-1,UK: Motorsport TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696500.ts
+#EXTINF:-1 group-title="SUPERSPORT",SuperSport Premier League
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694411.ts
+#EXTINF:-1,SuperSport Football
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694409.ts
+#EXTINF:-1,SuperSport Football Plus
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694391.ts
+#EXTINF:-1,SuperSport MaXimo
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694388.ts
+#EXTINF:-1,SuperSport PSL
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694412.ts
+#EXTINF:-1,SuperSport Grandstand
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694389.ts
+#EXTINF:-1,SuperSport Variety 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694408.ts
+#EXTINF:-1,SuperSport Variety 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694407.ts
+#EXTINF:-1,SuperSport Variety 3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694406.ts
+#EXTINF:-1,SuperSport Variety 4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694405.ts
+#EXTINF:-1,SuperSport Action
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694401.ts
+#EXTINF:-1,SuperSport Blitz
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694400.ts
+#EXTINF:-1,SuperSport Cricket
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694399.ts
+#EXTINF:-1,SuperSport ESPN
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694398.ts
+#EXTINF:-1,SuperSport ESPN2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694397.ts
+#EXTINF:-1,SuperSport Extra 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694396.ts
+#EXTINF:-1,SuperSport Extra 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694395.ts
+#EXTINF:-1,SuperSport Extra 3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694394.ts
+#EXTINF:-1,SuperSport Extra 4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694393.ts
+#EXTINF:-1,SuperSport Extra 5
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694392.ts
+#EXTINF:-1,SuperSport Golf
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694390.ts
+#EXTINF:-1,SuperSport La Liga
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694410.ts
+#EXTINF:-1,SuperSport Motorsport
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694387.ts
+#EXTINF:-1,SuperSport Play
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694386.ts
+#EXTINF:-1,SuperSport Rugby
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694385.ts
+#EXTINF:-1,SuperSport Tennis
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694384.ts
+#EXTINF:-1 group-title="BeIN Sports",beIN Sports 1 En
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523298.ts
+#EXTINF:-1,beIN Sports 2 En
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523299.ts
+#EXTINF:-1,beIN Sports 3 En
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523300.ts
+#EXTINF:-1,beIN Sports Premium 1 hd
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523278.ts
+#EXTINF:-1,beIN Sports Premium 2 hd
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523279.ts
+#EXTINF:-1,beIN Sports Premium 3 hd
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523280.ts
+#EXTINF:-1,beIN Sports 1 Ar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523281.ts
+#EXTINF:-1,beIN Sports 2 Ar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523282.ts
+#EXTINF:-1,beIN Sports 3 Ar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523283.ts
+#EXTINF:-1,beIN Sports 4 Ar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523284.ts
+#EXTINF:-1,beIN Sports 5 Ar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523285.ts
+#EXTINF:-1,beIN Sports 6 Ar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523286.ts
+#EXTINF:-1,beIN Sports 7 Ar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523287.ts
+#EXTINF:-1,beIN Sports 1 FR
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523301.ts
+#EXTINF:-1,beIN Sports 2 FR
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523302.ts
+#EXTINF:-1,beIN Sports 3 FR
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523303.ts
+#EXTINF:-1,beIN Sports Xtra 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523304.ts
+#EXTINF:-1,beIN Sports Xtra 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523305.ts
+#EXTINF:-1 group-title="ASTRO",MY: Astro SuperSport 1 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696504.ts
+#EXTINF:-1,MY: Astro SuperSport 2 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696505.ts
+#EXTINF:-1,MY: Astro SuperSport 3 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696506.ts
+#EXTINF:-1,MY: Astro SuperSport 4 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696507.ts
+#EXTINF:-1 group-title="NOW SPORTS HK",Now HK Premier Sports 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571278.ts
+#EXTINF:-1,Now HK Premier Sports 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571277.ts
+#EXTINF:-1,Now HK Premier Sports 3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571276.ts
+#EXTINF:-1,Now HK Premier Sports 4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571275.ts
+#EXTINF:-1,Now HK Premier Sports 5
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571274.ts
+#EXTINF:-1,Now HK Premier Sports 6
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571273.ts
+#EXTINF:-1,Now HK Premier Sports 7
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571272.ts
+#EXTINF:-1,Now HK Premier Sports 8
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571271.ts
+#EXTINF:-1,Now HK Now Sports 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571285.ts
+#EXTINF:-1,Now HK Now Sports 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571284.ts
+#EXTINF:-1,Now HK Now Sports 3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571283.ts
+#EXTINF:-1,Now HK Now Sports 4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571282.ts
+#EXTINF:-1,Now HK Now Sports 5
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571281.ts
+#EXTINF:-1,Now HK Now Sports 6
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571280.ts
+#EXTINF:-1,Now HK Now Sports 7
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571279.ts
+#EXTINF:-1,Now HK Now Sports 4K 617
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571286.ts
+#EXTINF:-1,Now HK Now Sports 4K 616
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/571287.ts
+#EXTINF:-1 group-title="DAZN",DE: Dazn 1 Bar HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668709.ts
+#EXTINF:-1,DE: Dazn 1 Bar HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668710.ts
+#EXTINF:-1,DE: Dazn 2 Bar HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668711.ts
+#EXTINF:-1,DE: Dazn 2 Bar HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668712.ts
+#EXTINF:-1,DAZN CA 01:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521437.ts
+#EXTINF:-1,DAZN CA 02:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521438.ts
+#EXTINF:-1,DAZN CA 03:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521439.ts
+#EXTINF:-1,DAZN CA 04:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521440.ts
+#EXTINF:-1,DAZN CA 05:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521441.ts
+#EXTINF:-1,DAZN CA 06:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521442.ts
+#EXTINF:-1,DAZN CA 07:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521443.ts
+#EXTINF:-1,DAZN CA 08:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521444.ts
+#EXTINF:-1,DAZN CA 09 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521445.ts
+#EXTINF:-1,DAZN CA 10 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521446.ts
+#EXTINF:-1,DAZN CA 11 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521447.ts
+#EXTINF:-1,DAZN CA 12 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521448.ts
+#EXTINF:-1,DAZN CA 13 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521449.ts
+#EXTINF:-1,IT: Dazn 1 FHD (SAT)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667357.ts
+#EXTINF:-1,IT: Dazn Eventi 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667358.ts
+#EXTINF:-1,ES: M. Dazn 1 FHD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703189.ts
+#EXTINF:-1,ES: M. Dazn 1 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703190.ts
+#EXTINF:-1,ES: M. Dazn 1 HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703191.ts
+#EXTINF:-1,ES: M. Dazn 1 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703192.ts
+#EXTINF:-1,ES: M. Dazn 2 FHD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703193.ts
+#EXTINF:-1,ES: M. Dazn 2 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703194.ts
+#EXTINF:-1,ES: M. Dazn 2 HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703195.ts
+#EXTINF:-1,ES: M. Dazn 2 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703196.ts
+#EXTINF:-1,ES: M. Dazn 3 FHD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703197.ts
+#EXTINF:-1,ES: M. Dazn 3 FHD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703198.ts
+#EXTINF:-1,ES: M. Dazn 3 HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703199.ts
+#EXTINF:-1,ES: M. Dazn 3 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703200.ts
+#EXTINF:-1,ES: M. Dazn 4 FHD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703201.ts
+#EXTINF:-1,ES: M. Dazn 4 FHD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703202.ts
+#EXTINF:-1,ES: M. Dazn 4 HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703203.ts
+#EXTINF:-1,ES: Dazn Evento 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703254.ts
+#EXTINF:-1,ES: Dazn Evento 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703255.ts
+#EXTINF:-1,ES: Dazn Evento 3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/703256.ts
+#EXTINF:-1 group-title="EPL | MOLA TV",Mola Events 00: DP World Tour - Commercial Bank Qatar Masters - Round 1 | DP World Tour | Thu 24th 8:55AM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695534.ts
+#EXTINF:-1,Mola Events 01: PGA TOUR - Corales Puntacana Championship - Round 1 | PGA Tour | Thu 24th 2:25PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695533.ts
+#EXTINF:-1,Mola Events 02: Estonia vs Cyprus | UEFA Nations League | Thu 24th 4:50PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695532.ts
+#EXTINF:-1,Mola Events 03: Moldova vs Kazakhstan | UEFA Nations League | Thu 24th 4:50PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695531.ts
+#EXTINF:-1,Mola Events 04: PGA TOUR - World Golf Championship - Dell Technologies Match Play - Round 2 | PGA Tour | Thu 24th 5:55PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695530.ts
+#EXTINF:-1,Mola Events 05: Hungary vs Serbia | Friendly Match | Thu 24th 6:20PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695529.ts
+#EXTINF:-1,Mola Events 06: Portugal vs Turkey | European Qualifiers | Thu 24th 7:35PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695528.ts
+#EXTINF:-1,Mola Events 07: LPGA - JTBC Classic Presented by Barbasol - Round 1 | LPGA | Thu 24th 10:25PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695527.ts
+#EXTINF:-1,Mola Events 08: Italy vs North Macedonia | European Qualifiers | Thu 24th 7:35PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695526.ts
+#EXTINF:-1,Mola Events 09: Wales vs Austria | European Qualifiers | Thu 24th 7:35PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695525.ts
+#EXTINF:-1,Mola Events 10: Sweden vs Czech Republic | European Qualifiers | Thu 24th 7:35PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695524.ts
+#EXTINF:-1,Mola Events 11: Uruguay vs Peru | 2022 FIFA World Cup Qualification | Thu 24th 11:20PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695523.ts
+#EXTINF:-1,Mola Events 12: Brazil vs Chile | 2022 FIFA World Cup Qualification | Thu 24th 11:20PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695522.ts
+#EXTINF:-1,Mola Events 13: Colombia vs Bolivia | 2022 FIFA World Cup Qualification | Thu 24th 11:20PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695521.ts
+#EXTINF:-1,Mola Events 14: Paraguay vs Ecuador | 2022 FIFA World Cup Qualification | Thu 24th 11:20PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695520.ts
+#EXTINF:-1,Mola Events 15: DP World Tour - Commercial Bank Qatar Masters - Round 2 | DP World Tour | Fri 25th 8:55AM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695519.ts
+#EXTINF:-1,Mola Events 16: PGA TOUR - Corales Puntacana Championship - Round 2 | PGA Tour | Fri 25th 2:25PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695518.ts
+#EXTINF:-1,Mola Events 17:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695517.ts
+#EXTINF:-1,Mola Events 18:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695516.ts
+#EXTINF:-1,Mola Events 19:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695515.ts
+#EXTINF:-1 group-title="Premier League",Live EPL 01:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654584.ts
+#EXTINF:-1,Live EPL 02:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654585.ts
+#EXTINF:-1,Live EPL 03:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654586.ts
+#EXTINF:-1,Live EPL 04:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654587.ts
+#EXTINF:-1,Live EPL 05:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654588.ts
+#EXTINF:-1,Live EPL 06:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654589.ts
+#EXTINF:-1,Live EPL 07:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654590.ts
+#EXTINF:-1,Live EPL 08:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654591.ts
+#EXTINF:-1,Live EPL 09:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654592.ts
+#EXTINF:-1,Live EPL 10:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654593.ts
+#EXTINF:-1,Live EPL 11:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654594.ts
+#EXTINF:-1,Live EPL 12:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654595.ts
+#EXTINF:-1,Live EPL 13:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654596.ts
+#EXTINF:-1,Live EPL 14:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654597.ts
+#EXTINF:-1,Live EPL 15:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654598.ts
+#EXTINF:-1,Live EPL 16:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654599.ts
+#EXTINF:-1,Live EPL 17:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654600.ts
+#EXTINF:-1,Live EPL 18:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654601.ts
+#EXTINF:-1,Live EPL 19:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654602.ts
+#EXTINF:-1,Live EPL 20:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/654603.ts
+#EXTINF:-1 group-title="CUP FOOTBALL",FOOT01: 17:00	Moldova vs Kazakhstan
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587914.ts
+#EXTINF:-1,FOOT02: 17:00	Estonia vs Cyprus
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587915.ts
+#EXTINF:-1,FOOT03: 19:45	Wales vs Austria
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587916.ts
+#EXTINF:-1,FOOT04: 19:45 	Scotland vs Poland
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587917.ts
+#EXTINF:-1,FOOT05:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587918.ts
+#EXTINF:-1,FOOT06:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587919.ts
+#EXTINF:-1,FOOT07:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587920.ts
+#EXTINF:-1,FOOT08:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587921.ts
+#EXTINF:-1,FOOT09:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587922.ts
+#EXTINF:-1,FOOT10:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587923.ts
+#EXTINF:-1,FOOT11:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587924.ts
+#EXTINF:-1,FOOT12:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587925.ts
+#EXTINF:-1,FOOT13:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587926.ts
+#EXTINF:-1,FOOT14:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587927.ts
+#EXTINF:-1,FOOT15:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587928.ts
+#EXTINF:-1,FOOT16:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587929.ts
+#EXTINF:-1,FOOT17:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587930.ts
+#EXTINF:-1,FOOT18:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587931.ts
+#EXTINF:-1,FOOT19:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587932.ts
+#EXTINF:-1,FOOT20:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/587933.ts
+#EXTINF:-1,FOOT 21:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694607.ts
+#EXTINF:-1,FOOT 22:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694608.ts
+#EXTINF:-1,FOOT 23:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694609.ts
+#EXTINF:-1,FOOT 24:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694610.ts
+#EXTINF:-1,FOOT 25:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694611.ts
+#EXTINF:-1,FOOT 26:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694612.ts
+#EXTINF:-1,FOOT 26:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694613.ts
+#EXTINF:-1,FOOT 28:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694614.ts
+#EXTINF:-1,FOOT 29:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694615.ts
+#EXTINF:-1,FOOT 30:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694616.ts
+#EXTINF:-1,FOOT 31:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694617.ts
+#EXTINF:-1,FOOT 32:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694618.ts
+#EXTINF:-1,FOOT 33:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694619.ts
+#EXTINF:-1,FOOT 34:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694620.ts
+#EXTINF:-1,FOOT 35:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694621.ts
+#EXTINF:-1,FOOT 36:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694622.ts
+#EXTINF:-1,FOOT 37:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694623.ts
+#EXTINF:-1,FOOT 38:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694624.ts
+#EXTINF:-1,FOOT 39:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694625.ts
+#EXTINF:-1,FOOT 40:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/694626.ts
+#EXTINF:-1 group-title="ROMANIA",RO: Digi Sport 1 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666577.ts
+#EXTINF:-1,RO: DIGI Sport 1 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666578.ts
+#EXTINF:-1,RO: DIGI Sport 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666579.ts
+#EXTINF:-1,RO: DIGI Sport 2 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666580.ts
+#EXTINF:-1,RO: DIGI Sport 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666581.ts
+#EXTINF:-1,RO: DIGI Sport 3 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666582.ts
+#EXTINF:-1,RO: DIGI Sport 3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666583.ts
+#EXTINF:-1,RO: Digi Sport 4 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666584.ts
+#EXTINF:-1,RO: DIGI Sport 4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666585.ts
+#EXTINF:-1,RO: Eurosport 1 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666606.ts
+#EXTINF:-1,RO: Eurosport 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666607.ts
+#EXTINF:-1,RO: Eurosport 2 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666608.ts
+#EXTINF:-1,RO: Eurosport 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/666609.ts
+#EXTINF:-1 group-title="RMC",FR: Canal+ Premier League HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667852.ts
+#EXTINF:-1,FR: RMC Sport 1 FHD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667882.ts
+#EXTINF:-1,FR: RMC Sport 1 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667883.ts
+#EXTINF:-1,FR: RMC Sport 1 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667884.ts
+#EXTINF:-1,FR: RMC Sport 1 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667885.ts
+#EXTINF:-1,FR: RMC Sport 2 FHD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667886.ts
+#EXTINF:-1,FR: RMC Sport 2 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667887.ts
+#EXTINF:-1,FR: RMC Sport 2 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667888.ts
+#EXTINF:-1,FR: RMC Sport 2 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667889.ts
+#EXTINF:-1,FR: RMC Sport Live 5 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667890.ts
+#EXTINF:-1,FR: RMC Sport Live 6 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667891.ts
+#EXTINF:-1,FR: RMC Sport Live 7 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667892.ts
+#EXTINF:-1,FR: RMC Sport Live 8 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667893.ts
+#EXTINF:-1,FR: RMC Sport Live 9 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667894.ts
+#EXTINF:-1,FR: RMC Sport Live 10 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667895.ts
+#EXTINF:-1,FR: RMC Sport Live 11 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667896.ts
+#EXTINF:-1,FR: RMC Sport Live 12 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667897.ts
+#EXTINF:-1,FR: RMC Sport Live 13 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667898.ts
+#EXTINF:-1,FR: RMC Sport Live 14 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667899.ts
+#EXTINF:-1,FR: RMC Sport Live 15 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667900.ts
+#EXTINF:-1,FR: RMC Sport Live 16 (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667901.ts
+#EXTINF:-1 group-title="GERMANY SKY",DE: Sky Sport 1 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668669.ts
+#EXTINF:-1,DE: Sky Sport 1 HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668670.ts
+#EXTINF:-1,DE: Sky Sport 1 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668671.ts
+#EXTINF:-1,DE: Sky Sport 2 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668672.ts
+#EXTINF:-1,DE: Sky Sport 2 HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668673.ts
+#EXTINF:-1,DE: Sky Sport 2 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668674.ts
+#EXTINF:-1,DE: Sky Sport 3 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668675.ts
+#EXTINF:-1,DE: Sky Sport 3 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668676.ts
+#EXTINF:-1,DE: Sky Sport 3 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668677.ts
+#EXTINF:-1,DE: Sky Sport 4 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668678.ts
+#EXTINF:-1,DE: Sky Sport 4 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668679.ts
+#EXTINF:-1,DE: Sky Sport 4 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668680.ts
+#EXTINF:-1,DE: Sky Sport 5 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668681.ts
+#EXTINF:-1,DE: Sky Sport 5 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668682.ts
+#EXTINF:-1,DE: Sky Sport 5 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668683.ts
+#EXTINF:-1,DE: Sky Sport 6 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668684.ts
+#EXTINF:-1,DE: Sky Sport 6 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668685.ts
+#EXTINF:-1,DE: Sky Sport 6 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668686.ts
+#EXTINF:-1,DE: Sky Sport 7 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668687.ts
+#EXTINF:-1,DE: Sky Sport 7 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668688.ts
+#EXTINF:-1,DE: Sky Sport 7 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668689.ts
+#EXTINF:-1,DE: Sky Sport 8 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668690.ts
+#EXTINF:-1,DE: Sky Sport 8 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668691.ts
+#EXTINF:-1,DE: Sky Sport 8 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668692.ts
+#EXTINF:-1,DE: Sky Sport 9 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668693.ts
+#EXTINF:-1,DE: Sky Sport 9 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668694.ts
+#EXTINF:-1,DE: Sky Sport 9 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668695.ts
+#EXTINF:-1,DE: Sky Sport 10 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668696.ts
+#EXTINF:-1,DE: Sky Sport 10 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668697.ts
+#EXTINF:-1,DE: Sky Sport 10 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668698.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668744.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668745.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668746.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668747.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668748.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 SD (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668749.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668750.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668751.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 SD (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668752.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668753.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668754.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 SD (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668755.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668756.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668757.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 SD (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668758.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668759.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668760.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 SD (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668761.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668762.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668763.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 SD (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668764.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668765.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD (720P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668766.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 SD (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668767.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668768.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 SD (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668769.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD (1080P) (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668770.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 SD (Match Time)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/668771.ts
+#EXTINF:-1 group-title="NETHERLANDS",NL: Ziggo Sport Select FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672056.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672062.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672063.ts
+#EXTINF:-1,NL: Ziggo Sport FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672055.ts
+#EXTINF:-1,NL: Ziggo Sport Select HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672057.ts
+#EXTINF:-1,NL: ESPN 1 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672043.ts
+#EXTINF:-1,NL: ESPN 1 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672044.ts
+#EXTINF:-1,NL: ESPN 2 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672045.ts
+#EXTINF:-1,NL: ESPN 2 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672046.ts
+#EXTINF:-1,NL: ESPN 3 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672047.ts
+#EXTINF:-1,NL: ESPN 3 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672048.ts
+#EXTINF:-1,NL: ESPN 4 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672049.ts
+#EXTINF:-1,NL: ESPN 4 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672050.ts
+#EXTINF:-1,NL: ESPN 5 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672051.ts
+#EXTINF:-1,NL: ESPN 5 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672052.ts
+#EXTINF:-1,NL: ESPN 6 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672053.ts
+#EXTINF:-1,NL: ESPN 6 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/672054.ts
+#EXTINF:-1 group-title="SPORT TV",PT: SPORT TV1 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667059.ts
+#EXTINF:-1,PT: SPORT TV1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667060.ts
+#EXTINF:-1,PT: SPORT TV2 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667061.ts
+#EXTINF:-1,PT: SPORT TV2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667062.ts
+#EXTINF:-1,PT: SPORT TV3 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667063.ts
+#EXTINF:-1,PT: SPORT TV3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667064.ts
+#EXTINF:-1,PT: SPORT TV4 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667065.ts
+#EXTINF:-1,PT: SPORT TV4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667066.ts
+#EXTINF:-1,PT: SPORT TV5 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667067.ts
+#EXTINF:-1,PT: SPORT TV5
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667068.ts
+#EXTINF:-1,PT: SPORT TV6 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667069.ts
+#EXTINF:-1,PT: SPORT TV6
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667070.ts
+#EXTINF:-1,PT: SPORT TV 1 UHD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667230.ts
+#EXTINF:-1,PT: SPORT TV 1 FHD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667231.ts
+#EXTINF:-1,PT: SPORT TV 1 HD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667232.ts
+#EXTINF:-1,PT: SPORT TV 2 UHD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667233.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667234.ts
+#EXTINF:-1,PT: SPORT TV 2 HD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667235.ts
+#EXTINF:-1,PT: SPORT TV 3 HD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667236.ts
+#EXTINF:-1,PT: Sport TV 4 HD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667237.ts
+#EXTINF:-1,PT: Sport TV 5 HD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667238.ts
+#EXTINF:-1,PT: Sport TV 6 HD (H.265)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667239.ts
+#EXTINF:-1 group-title="GREECE",|GR| OTE Sport 1 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/671701.ts
+#EXTINF:-1,|GR| OTE Sport 2 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/671702.ts
+#EXTINF:-1,|GR| OTE Sport 3 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/671703.ts
+#EXTINF:-1,|GR| OTE Sport 4 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/671704.ts
+#EXTINF:-1,|GR| OTE Sport 5 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/671705.ts
+#EXTINF:-1,|GR| OTE Sport 6 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/671706.ts
+#EXTINF:-1,|GR| OTE Sport 7 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/671707.ts
+#EXTINF:-1,|GR| OTE Sport 8 FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/671708.ts
+#EXTINF:-1 group-title="ALBANIA",ALB: SuperSport 2 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667686.ts
+#EXTINF:-1,ALB: SuperSport 2 SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667687.ts
+#EXTINF:-1,ALB: SuperSport 3 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667688.ts
+#EXTINF:-1,ALB: SuperSport 4 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667689.ts
+#EXTINF:-1,ALB: SuperSport 5 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667690.ts
+#EXTINF:-1,ALB: SuperSport 6 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667691.ts
+#EXTINF:-1,ALB: SuperSport 7 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/667692.ts
+#EXTINF:-1 group-title="OPTUS - SPARK",Optus 1 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521413.ts
+#EXTINF:-1,Optus 2 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521414.ts
+#EXTINF:-1,Optus 3 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521415.ts
+#EXTINF:-1,Optus 4  HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521416.ts
+#EXTINF:-1,Optus 5  HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521417.ts
+#EXTINF:-1,Optus 6 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521418.ts
+#EXTINF:-1,Optus 7 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521419.ts
+#EXTINF:-1,Optus 8 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521420.ts
+#EXTINF:-1,Optus 9 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521421.ts
+#EXTINF:-1,Optus 10 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521422.ts
+#EXTINF:-1,Optus 11 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521423.ts
+#EXTINF:-1,Optus 12 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521424.ts
+#EXTINF:-1,Optus 13 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/523743.ts
+#EXTINF:-1,**==SPARK SPORTS==**
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521425.ts
+#EXTINF:-1,Spark Sports Event 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521426.ts
+#EXTINF:-1,Spark Sports Event 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521427.ts
+#EXTINF:-1,Spark Sports Event 3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521428.ts
+#EXTINF:-1,Spark Sports Event 4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521429.ts
+#EXTINF:-1,Spark Sports Event 5
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521430.ts
+#EXTINF:-1,Spark Sports Event 6
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521431.ts
+#EXTINF:-1,Spark Sports Event 7
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521432.ts
+#EXTINF:-1,Spark Sports Event 8
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521433.ts
+#EXTINF:-1,Spark Sports Event 9
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521434.ts
+#EXTINF:-1,Spark Sports Event 10
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521435.ts
+#EXTINF:-1 group-title="STAN SPORTS (UEFA GAMES)",Stan AU Event 1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686428.ts
+#EXTINF:-1,Stan AU Event 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686429.ts
+#EXTINF:-1,Stan AU Event 3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686430.ts
+#EXTINF:-1,Stan AU Event 4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686431.ts
+#EXTINF:-1,Stan AU Event 5
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686432.ts
+#EXTINF:-1,Stan AU Event 6
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686433.ts
+#EXTINF:-1,Stan AU Event 7
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686434.ts
+#EXTINF:-1,Stan AU Event 8
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686435.ts
+#EXTINF:-1,Stan AU Event 9
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686436.ts
+#EXTINF:-1,Stan AU Event 10
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686437.ts
+#EXTINF:-1,Stan AU Event 11
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686438.ts
+#EXTINF:-1,Stan AU Event 12
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686439.ts
+#EXTINF:-1,Stan AU Event 13
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686440.ts
+#EXTINF:-1,Stan AU Event 14
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686441.ts
+#EXTINF:-1,Stan AU Event 15
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686442.ts
+#EXTINF:-1,Stan AU Event 16
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686443.ts
+#EXTINF:-1,Stan AU Event 17
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686444.ts
+#EXTINF:-1,Stan AU Event 18
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686445.ts
+#EXTINF:-1,Stan AU Event 19
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686446.ts
+#EXTINF:-1,Stan AU Event 20
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/686447.ts
+#EXTINF:-1 group-title="EFL iFollow",- - - - - EFL SET 1 (Scroll Down for Set 2) - - - - -
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/525131.ts
+#EXTINF:-1,�??--- UK EFL (Sat 26th Mar) ----??�
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696355.ts
+#EXTINF:-1,EFL1: AFC Wimbledon Cambridge United Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696356.ts
+#EXTINF:-1,EFL2: Accrington Stanley Gillingham Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696357.ts
+#EXTINF:-1,EFL3: Doncaster Rovers Charlton Athletic Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696358.ts
+#EXTINF:-1,EFL4: Ipswich Town Plymouth Argyle Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696359.ts
+#EXTINF:-1,EFL5: Sheffield Wednesday Cheltenham Town Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696360.ts
+#EXTINF:-1,EFL6: Shrewsbury Town Lincoln City Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696361.ts
+#EXTINF:-1,EFL7:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696362.ts
+#EXTINF:-1,EFL8: Bradford City Vs Newport County Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696363.ts
+#EXTINF:-1,EFL9: Carlisle United Vs Bristol Rovers Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696364.ts
+#EXTINF:-1,EFL10: Colchester United Vs Tranmere Rovers Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696365.ts
+#EXTINF:-1,EFL11: Crawley Town Vs Rochdale Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696366.ts
+#EXTINF:-1,EFL12: Exeter City Vs Stevenage Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696367.ts
+#EXTINF:-1,EFL13: Leyton Orient Vs Barrow Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696368.ts
+#EXTINF:-1,EFL14: Northampton Town Vs Hartlepool United Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696369.ts
+#EXTINF:-1,EFL15: Oldham Athletic Vs Mansfield Town Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696370.ts
+#EXTINF:-1,EFL16: Port Vale Vs Sutton United Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696371.ts
+#EXTINF:-1,EFL17: Salford City Vs Walsall Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696372.ts
+#EXTINF:-1,EFL18: Scunthorpe United Vs Harrogate Town Sat Mar 26 2022 15:00 (UK)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696373.ts
+#EXTINF:-1,EFL19:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696374.ts
+#EXTINF:-1,EFL20:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696375.ts
+#EXTINF:-1,EFL21:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696376.ts
+#EXTINF:-1,EFL22:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696377.ts
+#EXTINF:-1,EFL23:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696378.ts
+#EXTINF:-1,EFL24:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696379.ts
+#EXTINF:-1,EFL25:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696380.ts
+#EXTINF:-1,EFL26:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696381.ts
+#EXTINF:-1,EFL27:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696382.ts
+#EXTINF:-1,EFL28:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696383.ts
+#EXTINF:-1,EFL29:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696384.ts
+#EXTINF:-1,EFL30:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696385.ts
+#EXTINF:-1,EFL31:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696386.ts
+#EXTINF:-1,EFL32:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696387.ts
+#EXTINF:-1,EFL33:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696388.ts
+#EXTINF:-1,EFL34:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696389.ts
+#EXTINF:-1,EFL35:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696390.ts
+#EXTINF:-1,EFL36:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696391.ts
+#EXTINF:-1,EFL37:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696392.ts
+#EXTINF:-1,EFL38:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696393.ts
+#EXTINF:-1,- - - - - EFL SET 2 - - - - -
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/525130.ts
+#EXTINF:-1,EFL | Birmingham City
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/525128.ts
+#EXTINF:-1,EFL | Sunderland AFC
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/525129.ts
+#EXTINF:-1 group-title="UK | SPFL Scottish Clubs",--------------------SPFL--------------------
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663782.ts
+#EXTINF:-1,RANGERS TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663784.ts
+#EXTINF:-1,Rangers (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521536.ts
+#EXTINF:-1,CELTIC TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663783.ts
+#EXTINF:-1,Celtic (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521531.ts
+#EXTINF:-1,ABERDEEN TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663785.ts
+#EXTINF:-1,Aberdeen (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521530.ts
+#EXTINF:-1,Dundee FC (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/572279.ts
+#EXTINF:-1,DUNDEE UTD TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663792.ts
+#EXTINF:-1,Dundee United (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521532.ts
+#EXTINF:-1,Falkirk FC (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/572278.ts
+#EXTINF:-1,Hamilton Academical (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521533.ts
+#EXTINF:-1,HEARTS TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663795.ts
+#EXTINF:-1,Hearts (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521539.ts
+#EXTINF:-1,HIBERNIAN TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663786.ts
+#EXTINF:-1,Hibernian (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521534.ts
+#EXTINF:-1,KILMARNOCK TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663789.ts
+#EXTINF:-1,Kilmarnock (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521528.ts
+#EXTINF:-1,Livingston (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521535.ts
+#EXTINF:-1,MOTHERWELL TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663788.ts
+#EXTINF:-1,Motherwell (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521529.ts
+#EXTINF:-1,PARTICK THISTLE TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663797.ts
+#EXTINF:-1,QUEEN'S PARK TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663796.ts
+#EXTINF:-1,ROSS COUNTY TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663790.ts
+#EXTINF:-1,Ross County (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521537.ts
+#EXTINF:-1,ST JOHNSTONE TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663787.ts
+#EXTINF:-1,St Johnstone (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521538.ts
+#EXTINF:-1,ST MIRREN TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663791.ts
+#EXTINF:-1,St Mirren (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/521527.ts
+#EXTINF:-1,SPFL 1: 19:05 Dunfermline v Patrick Tue 22nd Mar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/693635.ts
+#EXTINF:-1,SPFL 2: 15:00 Arbroath v Raith Sat 26th Mar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/693636.ts
+#EXTINF:-1,SPFL 3: 15:00 Hamilton v Queen of the south Sat 26th Mar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/693637.ts
+#EXTINF:-1,SPFL 4: 15:00 Inverness v Dunfermline Sat 26th Mar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/693638.ts
+#EXTINF:-1,SPFL 5: 15:00 Kilmarnock v Patrick  Sat 26th Mar
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/693639.ts
+#EXTINF:-1,Scottish Championship 00: Inverness Caledonian Thistle v Dunfermline Athletic | on Board  |  Sat 26th 9:00AM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663798.ts
+#EXTINF:-1,Scottish Championship 01: Hamilton Academical v Queen of the South | on Board  |  Sat 26th 9:00AM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663799.ts
+#EXTINF:-1,Scottish Championship 02: Greenock Morton v Ayr United | on Board  |  Sat 26th 9:00AM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663800.ts
+#EXTINF:-1,Scottish Championship 03: Arbroath v Raith Rovers | on Board  |  Sat 26th 9:00AM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663801.ts
+#EXTINF:-1,Scottish Championship 04: Kilmarnock v Partick Thistle | on Board  |  Sat 26th 9:00AM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663802.ts
+#EXTINF:-1,Scottish Championship 05: Kilmarnock v Queen of the South | on Board  |  Sat 30th 3:00PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663803.ts
+#EXTINF:-1,Scottish Championship 06: Partick Thistle v Inverness Caledonian Thistle | on Board  |  Sat 30th 3:00PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663804.ts
+#EXTINF:-1,Scottish Championship 07: Raith Rovers v Ayr United | on Board  |  Sat 30th 3:00PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663805.ts
+#EXTINF:-1,Scottish Championship 08: Arbroath  v Dunfermline | on Board  |  Sat 30th 3:00PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663806.ts
+#EXTINF:-1,Scottish Championship 09: Morton v Hamilton Academical | on Board  |  Sat 30th 3:00PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663807.ts
+#EXTINF:-1,Scottish Championship 10: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663808.ts
+#EXTINF:-1,Scottish Championship 11: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663809.ts
+#EXTINF:-1,Scottish Championship 13: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663810.ts
+#EXTINF:-1,Scottish Championship 13: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663811.ts
+#EXTINF:-1,Scottish Championship 14: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663812.ts
+#EXTINF:-1,Scottish Championship 15: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663813.ts
+#EXTINF:-1,Scottish Championship 16: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663814.ts
+#EXTINF:-1,Scottish Championship 17: Queen of the South vs Dundee | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663815.ts
+#EXTINF:-1,Scottish Championship 18: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663816.ts
+#EXTINF:-1,Scottish Championship 19: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663817.ts
+#EXTINF:-1,Scottish Championship 20: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663818.ts
+#EXTINF:-1,Scottish Championship 21: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 7:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663819.ts
+#EXTINF:-1,Scottish Championship 22: Inverness Caledonian Thistle vs Ayr United | on Board  |  Fri 30th 6:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663820.ts
+#EXTINF:-1,Scottish Championship 23: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 6:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663821.ts
+#EXTINF:-1,Scottish Championship 24: Alloa Athletic vs Dunfermline Athletic | on Board  |  Fri 30th 6:05PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/663822.ts
+#EXTINF:-1 group-title="BOXING / UFC Replays",Anthony Joshua vs. Oleksandr Usyk (2021)
+http://trident-tv.live:8880/movie/tinajones64.26.0.2.22/Uua6HZEms2/688769.mkv
+#EXTINF:-1,UFC 266: Volkanovski vs. Ortega (2021)
+http://trident-tv.live:8880/movie/tinajones64.26.0.2.22/Uua6HZEms2/690389.mkv
+#EXTINF:-1,Deontay Wilder vs. Tyson Fury III (2021)
+http://trident-tv.live:8880/movie/tinajones64.26.0.2.22/Uua6HZEms2/690392.mkv
+#EXTINF:-1,UFC 267: Blachowicz vs. Teixeira (2021)
+http://trident-tv.live:8880/movie/tinajones64.26.0.2.22/Uua6HZEms2/694447.mp4
+#EXTINF:-1,UFC 267: PRELIMS Blachowicz vs. Teixeira (2021)
+http://trident-tv.live:8880/movie/tinajones64.26.0.2.22/Uua6HZEms2/694448.mkv
+#EXTINF:-1,UFC 268 PRELIMS: Usman vs. Covington 2 (2021)
+http://trident-tv.live:8880/movie/tinajones64.26.0.2.22/Uua6HZEms2/694744.mkv
+#EXTINF:-1,UFC 268: Usman vs. Covington 2 (2021)
+http://trident-tv.live:8880/movie/tinajones64.26.0.2.22/Uua6HZEms2/694745.mkv
+#EXTINF:-1,UFC 269: Oliveira vs. Poirier (2021)
+http://trident-tv.live:8880/movie/tinajones64.26.0.2.22/Uua6HZEms2/695546.mp4
+#EXTINF:-1,UFC 270: Ngannou vs. Gane (2022)
+http://trident-tv.live:8880/movie/tinajones64.26.0.2.22/Uua6HZEms2/699500.mkv
+#EXTINF:-1,UFC 271: Adesanya vs. Whittaker 2 (2022)
+http://trident-tv.live:8880/movie/tinajones64.26.0.2.22/Uua6HZEms2/701234.mkv
+#EXTINF:-1,UFC 272: Covington vs. Masvidal (2022)
+http://trident-tv.live:8880/movie/tinajones64.26.0.2.22/Uua6HZEms2/721073.mkv
+#EXTINF:-1 group-title="PPV EVENTS (SET 1)",EVENTS01: IWC: Twenty-One 12AM GMT
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432903.ts
+#EXTINF:-1,EVENTS02: GCW: One Night Only 3AM GMT
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432904.ts
+#EXTINF:-1,EVENTS03:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432905.ts
+#EXTINF:-1,EVENTS04:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432906.ts
+#EXTINF:-1,EVENTS05:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432907.ts
+#EXTINF:-1,EVENTS06:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432908.ts
+#EXTINF:-1,EVENTS07:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432909.ts
+#EXTINF:-1,EVENTS08:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432910.ts
+#EXTINF:-1,EVENTS09:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432911.ts
+#EXTINF:-1,EVENTS10:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432912.ts
+#EXTINF:-1,EVENTS11:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432913.ts
+#EXTINF:-1,EVENTS12:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432914.ts
+#EXTINF:-1,EVENTS13:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432915.ts
+#EXTINF:-1,EVENTS14:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432916.ts
+#EXTINF:-1,EVENTS15:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432917.ts
+#EXTINF:-1,EVENTS16:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432918.ts
+#EXTINF:-1,EVENTS17:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432919.ts
+#EXTINF:-1,EVENTS18:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432920.ts
+#EXTINF:-1,EVENTS19:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432921.ts
+#EXTINF:-1,EVENTS20:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432922.ts
+#EXTINF:-1,EVENTS21:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432923.ts
+#EXTINF:-1,EVENTS22:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432924.ts
+#EXTINF:-1,EVENTS23:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432925.ts
+#EXTINF:-1,EVENTS24:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432926.ts
+#EXTINF:-1,EVENTS25:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432927.ts
+#EXTINF:-1,EVENTS26:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432928.ts
+#EXTINF:-1,EVENTS27:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432929.ts
+#EXTINF:-1,EVENTS 28:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432930.ts
+#EXTINF:-1,EVENTS29:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432931.ts
+#EXTINF:-1,EVENTS30:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432932.ts
+#EXTINF:-1,EVENTS31:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432933.ts
+#EXTINF:-1,EVENTS32:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432934.ts
+#EXTINF:-1,EVENTS33:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432935.ts
+#EXTINF:-1,EVENTS34:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432936.ts
+#EXTINF:-1,EVENTS35:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432937.ts
+#EXTINF:-1,Events 36:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432938.ts
+#EXTINF:-1,Events 37:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432939.ts
+#EXTINF:-1,EVENTS 38:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432940.ts
+#EXTINF:-1,Events 39:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432941.ts
+#EXTINF:-1,Events 40:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432942.ts
+#EXTINF:-1,Events 41:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432943.ts
+#EXTINF:-1,Events 42:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432944.ts
+#EXTINF:-1,Events 43:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432945.ts
+#EXTINF:-1,Events 44:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432946.ts
+#EXTINF:-1,Events 45:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432947.ts
+#EXTINF:-1,Events 46:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432948.ts
+#EXTINF:-1,Events 47:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432949.ts
+#EXTINF:-1,Events 48:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432950.ts
+#EXTINF:-1,Events 49:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432951.ts
+#EXTINF:-1,Events 50:
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/432952.ts
+#EXTINF:-1 group-title="PPV EVENTS (SET 2)",PPV: WWE NETWORK FHD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/132271.ts
+#EXTINF:-1,PPV: WWE NETWORK FHD BU
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/132277.ts
+#EXTINF:-1,PPV Events 01: MMA TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695805.ts
+#EXTINF:-1,PPV Events 02: hard knocks
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695806.ts
+#EXTINF:-1,PPV Events 03: ROH TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695807.ts
+#EXTINF:-1,PPV Events 04: IMPACT! Wrestling
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695808.ts
+#EXTINF:-1,PPV Events 05: Sling PPV1 (EN)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695809.ts
+#EXTINF:-1,PPV Events 06: Sling PPV1 (ES)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695810.ts
+#EXTINF:-1,PPV Events 07: Sling PPV2 (EN)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695811.ts
+#EXTINF:-1,PPV Events 08: Sling PPV2 (ES)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695812.ts
+#EXTINF:-1,PPV Events 09: Sling PPV3 (EN)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695813.ts
+#EXTINF:-1,PPV Events 10: Sling PPV3 (ES)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695814.ts
+#EXTINF:-1,PPV Events 11: Sling PPV4 (EN)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695815.ts
+#EXTINF:-1,PPV Events 12: Sling PPV4 (ES)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695816.ts
+#EXTINF:-1,PPV Events 13: Sling PPV5 (EN)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695817.ts
+#EXTINF:-1,PPV Events 14: Sling PPV5 (ES)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695818.ts
+#EXTINF:-1,PPV Events 15: Subs on the Shore: Houston 2022 2PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695819.ts
+#EXTINF:-1,PPV Events 16: Combat Night Orlando, March 19 3.15PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695820.ts
+#EXTINF:-1,PPV Events 17: Pale Pro: Revelations 5PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695821.ts
+#EXTINF:-1,PPV Events 18: NWA: Crockett Cup 2022, Night 1 5PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695822.ts
+#EXTINF:-1,PPV Events 19: MFC 8: St. Paddy's Day Showdown 5PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695823.ts
+#EXTINF:-1,PPV Events 20: WrestlePro: Rock and Roll Forever 6PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695824.ts
+#EXTINF:-1,PPV Events 21: LAWE: Origenes (en Espanol) 6PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695825.ts
+#EXTINF:-1,PPV Events 22: AAW Pro Wrestling: Epic The 18 Year Anniversary Event 6.30PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695826.ts
+#EXTINF:-1,PPV Events 23: Top Rank: Edgar Berlanga vs Steve Rolls 4.15PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695827.ts
+#EXTINF:-1,PPV Events 24: Ortiz JR v McKinson
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695828.ts
+#EXTINF:-1,PPV Events 25: Edwards v Waseem 11AM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695829.ts
+#EXTINF:-1,PPV Events 26: Edgar Berlanga v Steve Rolls 7PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695830.ts
+#EXTINF:-1,PPV Events 27: Rocha v Cobbs 7PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695831.ts
+#EXTINF:-1,PPV Events 28: Thor Vs Eddie hall fight 2.30pm
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695832.ts
+#EXTINF:-1,PPV Events 29: Thor Vs Eddie hall fight 2.30pm
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695833.ts
+#EXTINF:-1,PPV Events 30: Avanesyan v Menz 1PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695834.ts
+#EXTINF:-1,PPV Events 31: UFC Fight Night: Volkov vs. Aspinall Early and Main 11AM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695835.ts
+#EXTINF:-1,PPV Events 32: UFC Fight Night: Volkov vs. Aspinall 12PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695836.ts
+#EXTINF:-1,PPV Events 33: UFC Fight Night: Volkov vs. Aspinall 12PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695837.ts
+#EXTINF:-1,PPV Events 34: UFC Fight Night: Volkov vs. Aspinall SD  12PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695838.ts
+#EXTINF:-1,PPV Events 35: Monster AMA: Supercross 12PM
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695839.ts
+#EXTINF:-1,PPV Events 36: Frank Warren Boxing - Avanesyan vs Metz | Frank Warren Boxing - Sat 19th 6:55PM GMT
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695840.ts
+#EXTINF:-1,PPV Events 37: IBF World Flyweight Title Fight - Edwards v Waseem - Fighting | 2022-03-19 4:00PM GMT
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695841.ts
+#EXTINF:-1,PPV Events 38: Supercross : Round 11: Indianapolis, IN - Lucas Oil Stadium | Sat 19 Mar 2022 | 11:00PM GMT
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695842.ts
+#EXTINF:-1,PPV Events 39: Glory 80: Ben Saddick vs Rigters 9PM UK Time
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695843.ts
+#EXTINF:-1,PPV Events 40: Glory 80: Ben Saddick vs Rigters 9PM UK Time (Backup)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695844.ts
+#EXTINF:-1,PPV Events 41: No Scheduled Event.
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695845.ts
+#EXTINF:-1,PPV Events 42: No Scheduled Event.
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695846.ts
+#EXTINF:-1,PPV Events 43: No Scheduled Event.
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695847.ts
+#EXTINF:-1,PPV Events 44: No Scheduled Event.
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695848.ts
+#EXTINF:-1,PPV Events 45: No Scheduled Event.
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695849.ts
+#EXTINF:-1,PPV Events 47: No Scheduled Event.
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695850.ts
+#EXTINF:-1,PPV Events 46: No Scheduled Event.
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695851.ts
+#EXTINF:-1,PPV Events 48: No Scheduled Event.
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/695852.ts
+#EXTINF:-1 group-title="UK",UK: BBC One HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696000.ts
+#EXTINF:-1,UK: BBC One HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696001.ts
+#EXTINF:-1,UK: BBC One SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696002.ts
+#EXTINF:-1,UK: BBC One Wales HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696003.ts
+#EXTINF:-1,UK: BBC One Scotland HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696004.ts
+#EXTINF:-1,UK: BBC Two HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696005.ts
+#EXTINF:-1,UK: BBC Two HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696006.ts
+#EXTINF:-1,UK: BBC Two SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696007.ts
+#EXTINF:-1,UK: BBC Three HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/721703.ts
+#EXTINF:-1,UK: BBC Scotland
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/699401.ts
+#EXTINF:-1,UK: ITV HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696021.ts
+#EXTINF:-1,UK: ITV TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696022.ts
+#EXTINF:-1,UK: ITV +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696023.ts
+#EXTINF:-1,UK: BBC Four HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696010.ts
+#EXTINF:-1,UK: BBC Four SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696011.ts
+#EXTINF:-1,UK: BBC Alba
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696012.ts
+#EXTINF:-1,UK: Channel 4 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696013.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696014.ts
+#EXTINF:-1,UK: Channel 4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696015.ts
+#EXTINF:-1,UK: Channel 4 +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696016.ts
+#EXTINF:-1,UK: Channel 5 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696017.ts
+#EXTINF:-1,UK: Channel 5 HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696018.ts
+#EXTINF:-1,UK: Channel 5
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696019.ts
+#EXTINF:-1,UK: Channel 5 +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696020.ts
+#EXTINF:-1,UK: ITV 2 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696024.ts
+#EXTINF:-1,UK: ITV 2
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696025.ts
+#EXTINF:-1,UK: ITV2 +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696026.ts
+#EXTINF:-1,UK: ITV 3 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696027.ts
+#EXTINF:-1,UK: ITV 3
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696028.ts
+#EXTINF:-1,UK: ITV3 +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696029.ts
+#EXTINF:-1,UK: ITV 4 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696030.ts
+#EXTINF:-1,UK: ITV 4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696031.ts
+#EXTINF:-1,UK: ITV4 +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696032.ts
+#EXTINF:-1,UK: ITVBe HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696033.ts
+#EXTINF:-1,UK: ITVBe
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696034.ts
+#EXTINF:-1,UK: More 4 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696036.ts
+#EXTINF:-1,UK: More 4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696037.ts
+#EXTINF:-1,UK: More4 +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696038.ts
+#EXTINF:-1,UK: Film4 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696039.ts
+#EXTINF:-1,UK: Film4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696040.ts
+#EXTINF:-1,UK: Film4 +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696041.ts
+#EXTINF:-1,UK: Sky Max HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696042.ts
+#EXTINF:-1,UK: Sky Max HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696043.ts
+#EXTINF:-1,UK: Sky Replay
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696045.ts
+#EXTINF:-1,UK: Sky Showcase HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696046.ts
+#EXTINF:-1,UK: Sky Showcase HD (720P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696047.ts
+#EXTINF:-1,UK: Sky Atlantic HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696048.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696049.ts
+#EXTINF:-1,UK: Sky Atlantic +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696050.ts
+#EXTINF:-1,UK: Sky Witness HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696051.ts
+#EXTINF:-1,UK: Sky Witness
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696052.ts
+#EXTINF:-1,UK: Sky Witness +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/720064.ts
+#EXTINF:-1,UK: Sky Arts HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696053.ts
+#EXTINF:-1,UK: Sky Arts
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696054.ts
+#EXTINF:-1,UK: Sky Crime HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696055.ts
+#EXTINF:-1,UK: Sky Crime
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696056.ts
+#EXTINF:-1,UK: Sky Crime +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696057.ts
+#EXTINF:-1,UK: SyFy HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696058.ts
+#EXTINF:-1,UK: SyFy
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696059.ts
+#EXTINF:-1,UK: Alibi HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696060.ts
+#EXTINF:-1,UK: Alibi
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696061.ts
+#EXTINF:-1,UK: Alibi +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696062.ts
+#EXTINF:-1,UK: Sky Comedy HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696063.ts
+#EXTINF:-1,UK: Comedy Central HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696064.ts
+#EXTINF:-1,UK: Comedy Central
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696065.ts
+#EXTINF:-1,UK: Comedy Central +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696066.ts
+#EXTINF:-1,UK: Comedy Central Xtra
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696067.ts
+#EXTINF:-1,UK: Dave HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696068.ts
+#EXTINF:-1,UK: Dave
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696069.ts
+#EXTINF:-1,UK: Dave ja vu
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696070.ts
+#EXTINF:-1,UK: E4 HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696071.ts
+#EXTINF:-1,UK: E4
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696072.ts
+#EXTINF:-1,UK: E4 +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696073.ts
+#EXTINF:-1,UK: UTV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696074.ts
+#EXTINF:-1,UK: MTV HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696075.ts
+#EXTINF:-1,UK: MTV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696076.ts
+#EXTINF:-1,UK: 4Seven
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696077.ts
+#EXTINF:-1,UK: TLC HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696078.ts
+#EXTINF:-1,UK: TLC HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696079.ts
+#EXTINF:-1,UK: TLC
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696080.ts
+#EXTINF:-1,UK: TLC +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696081.ts
+#EXTINF:-1,UK: Paramount Network
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696082.ts
+#EXTINF:-1,UK: W HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696083.ts
+#EXTINF:-1,UK: W
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696084.ts
+#EXTINF:-1,UK: W +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696085.ts
+#EXTINF:-1,UK: STV HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696086.ts
+#EXTINF:-1,UK: S4C HD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696087.ts
+#EXTINF:-1,UK: S4C
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696088.ts
+#EXTINF:-1,UK: E! HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696089.ts
+#EXTINF:-1,UK: E!
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696090.ts
+#EXTINF:-1,UK: Bet
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696091.ts
+#EXTINF:-1,UK: Gold HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696092.ts
+#EXTINF:-1,UK: Gold
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696093.ts
+#EXTINF:-1,UK: Gold +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696094.ts
+#EXTINF:-1,UK: HGTV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696095.ts
+#EXTINF:-1,UK: HGTV +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696096.ts
+#EXTINF:-1,UK: Food Network
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696097.ts
+#EXTINF:-1,UK: Food Network +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696098.ts
+#EXTINF:-1,UK: Food xp
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696099.ts
+#EXTINF:-1,UK: CBS Justice
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696100.ts
+#EXTINF:-1,UK: CBS Drama
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696101.ts
+#EXTINF:-1,UK: CBS Reality
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696102.ts
+#EXTINF:-1,UK: CBS Reality +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696103.ts
+#EXTINF:-1,UK: Drama
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696104.ts
+#EXTINF:-1,UK: Drama +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696105.ts
+#EXTINF:-1,UK: Dmax
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696106.ts
+#EXTINF:-1,UK: Dmax+1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696107.ts
+#EXTINF:-1,UK: Really
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696108.ts
+#EXTINF:-1,UK: Pick
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696109.ts
+#EXTINF:-1,UK: Pick +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696110.ts
+#EXTINF:-1,UK: Horse & Country
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696111.ts
+#EXTINF:-1,UK: Quest HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696112.ts
+#EXTINF:-1,UK: Quest
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696113.ts
+#EXTINF:-1,UK: Quest +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696114.ts
+#EXTINF:-1,UK: Quest Red
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696115.ts
+#EXTINF:-1,UK: Quest Red +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696116.ts
+#EXTINF:-1,UK: 5Select
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696117.ts
+#EXTINF:-1,UK: 5 USA
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696118.ts
+#EXTINF:-1,UK: 5 USA +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696119.ts
+#EXTINF:-1,UK: 5 Star
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696120.ts
+#EXTINF:-1,UK: 5 Star +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696121.ts
+#EXTINF:-1,UK: Forces TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696123.ts
+#EXTINF:-1,UK: Challenge TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696124.ts
+#EXTINF:-1,UK: London Live
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696125.ts
+#EXTINF:-1,UK: Together TV
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696126.ts
+#EXTINF:-1,UK: Eden
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696127.ts
+#EXTINF:-1,UK: Eden +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696128.ts
+#EXTINF:-1,UK: Eden +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696129.ts
+#EXTINF:-1,UK: Smithsonian HD (1080P)
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696130.ts
+#EXTINF:-1,UK: Smithsonian SD
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696131.ts
+#EXTINF:-1,UK: PBS America
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696132.ts
+#EXTINF:-1,UK: Yesterday
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696133.ts
+#EXTINF:-1,UK: Yesterday +1
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696134.ts
+#EXTINF:-1,UK: Blaze
+http://trident-tv.live:8880/tinajones64.26.0.2.22/Uua6HZEms2/696135.ts
